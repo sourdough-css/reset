@@ -1,0 +1,30 @@
+{
+  "name": "sourdough-reset",
+  "description": "Sourdough CSS reset styles",
+  "version": "0.1.0",
+  "files": [
+    "index.wcss",
+    "lib"
+  ],
+  "dependencies": {
+    "normalize.css": "^3.0.2"
+  },
+  "devDependencies": {
+    "sourdough-preprocessor": "^0.2.0"
+  },
+  "scripts": {
+    "build": "sourdough index.wcss build/reset.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sourdough-css/reset.git"
+  },
+  "keywords": [
+    "reset",
+    "browser",
+    "css",
+    "normalize-css",
+    "sourdough",
+    "style"
+  ]
+}
