@@ -3,17 +3,17 @@
   "description": "Sourdough CSS reset styles",
   "version": "0.1.0",
   "files": [
-    "index.wcss",
+    "index.styl",
     "lib"
   ],
   "dependencies": {
     "normalize.css": "^3.0.2"
   },
   "devDependencies": {
-    "sourdough-preprocessor": "^0.2.0"
+    "sourdough-preprocessor": "^0.3.1"
   },
   "scripts": {
-    "build": "sourdough index.wcss build/reset.css"
+    "build": "sourdough index.styl build/reset.css"
   },
   "repository": {
     "type": "git",
