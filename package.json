@@ -1,7 +1,7 @@
 {
   "name": "sourdough-reset",
   "description": "Sourdough CSS reset styles",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "files": [
     "index.styl",
     "lib"
