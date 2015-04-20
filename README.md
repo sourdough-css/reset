@@ -8,7 +8,7 @@ Base styles for Sourdough. Built on top of:
 Install [iojs](http://iojs.org) (comes with npm).
 
 ```
-npm install sourdough-base
+npm install sourdough-reset
 ```
 
 ## Build
