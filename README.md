@@ -5,7 +5,7 @@ Base styles for Sourdough. Built on top of:
 
 ## Installation
 
-Install [iojs](http://iojs.org) (comes with npm).
+Install [nodejs](http://nodejs.org) (comes with npm).
 
 ```
 npm install sourdough-reset
@@ -13,12 +13,12 @@ npm install sourdough-reset
 
 ## Build
 
+Install dependencies:
 ```
 npm install
 ```
 
-To generate a build:
-
+Run the build:
 ```
 npm run build
 ```
@@ -26,4 +26,4 @@ npm run build
 ## Browser support
 
 * Modern Browsers
-* Internet Explorer 8+
+* Internet Explorer 9+
